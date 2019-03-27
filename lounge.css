@@ -40,4 +40,12 @@ div h2{
 #eloxirs h3{
   color: #d12c47;
 }
-
+body{
+  font: small/1.6em Verdana, Helvetica, Arial, sans-serif;
+}
+.cd{
+  font-style: italic;
+}
+.artist{
+  font-weight: bold;
+}
